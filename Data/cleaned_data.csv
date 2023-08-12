@@ -1,0 +1,12 @@
+CustomerID,First_Name,Last_Name,Phone_Number,Address,Paying Customer,Do_Not_Contact,Street_Address,Country_Name,Zip
+1001,Frodo,Baggins,123-545-5421,"123 Shire Lane, Shire",Y,N,123 Shire Lane, Shire,
+1005,Jon,Snow,876-678-3469,123 Dragons Road,Y,N,123 Dragons Road,,
+1008,Sherlock,Holmes,876-678-3469,98 Clue Drive,N,N,98 Clue Drive,,
+1010,Peter,Parker,123-545-5421,"25th Main Street, New York",Y,N,25th Main Street, New York,
+1013,Don,Draper,123-543-2345,2039 Main Street,Y,N,2039 Main Street,,
+1014,Leslie,Knope,876-678-3469,343 City Parkway,Y,N,343 City Parkway,,
+1015,Toby,Flenderson,304-762-2467,214 HR Avenue,N,N,214 HR Avenue,,
+1016,Ron,Weasley,123-545-5421,2395 Hogwarts Avenue,N,N,2395 Hogwarts Avenue,,
+1017,Michael ,Scott,123-643-9775,"121 Paper Avenue, Pennsylvania",Y,N,121 Paper Avenue, Pennsylvania,
+1020,Anakin,Skywalker,876-678-3469,"910 Tatooine Road, Tatooine",Y,N,910 Tatooine Road, Tatooine,
+1020,Anakin,Skywalker,876-678-3469,"910 Tatooine Road, Tatooine",Y,N,910 Tatooine Road, Tatooine,
